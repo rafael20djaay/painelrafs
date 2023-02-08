@@ -328,7 +328,7 @@ dpkg-reconfigure --frontend noninteractive tzdata > /dev/null 2>&1
 clear
 echo -e "\E[44;1;37m    INSTALANDO PAINEL    \E[0m"
 echo ""
-echo -e "WEB GESTOR-SSH" | figlet
+echo -e "PAINEL RAFS WEB" | figlet
 echo -e "                              \033[1;31mBy @rafsnet4goficial\033[1;36m"
 echo ""
 chave=$(curl -sSL "raw.githubusercontent.com/rafael20djaay/painelrafs/Premium/chave") &>/dev/null
