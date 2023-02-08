@@ -14,13 +14,13 @@ Armazenamento: 20GB
 * PAINEL WEB RAFS x86/x64bits
 
 ```
-apt install lolcat -y && apt install figlet && wget raw.githubusercontent.com/rafael20djaay/painelrafs/main/ubuinst.sh && chmod 777 ubuinst.sh && ./ubuinst.sh
+apt install lolcat -y && apt install figlet && wget raw.githubusercontent.com/rafael20djaay/painelrafs/Premium/ubuinst.sh && chmod 777 ubuinst.sh && ./ubuinst.sh
 ```
 
 * ‍💻 Instalação
 * PAINEL WEB RAFS ( DB CONECTA 4G )
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/rafael20djaay/painelrafs/raw/main/bancoconecta.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/rafael20djaay/painelrafs/raw/Premium/bancoconecta.sh)
 ```
 
 * ♻️ Sincronização 1
