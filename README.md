@@ -14,7 +14,7 @@ Armazenamento: 20GB
 * PAINEL WEB RAFS x86/x64bits
 
 ```
-apt install lolcat -y && apt install figlet && wget raw.githubusercontent.com/rafael20djaay/painelrafs/Premium/ubuinst.sh && chmod 777 ubuinst.sh && ./ubuinst.sh
+apt update && apt upgrade && apt install lolcat -y && apt install figlet && wget raw.githubusercontent.com/rafael20djaay/painelrafs/Premium/ubuinst.sh && chmod 777 ubuinst.sh && ./ubuinst.sh
 ```
 
 * ‍💻 Instalação
